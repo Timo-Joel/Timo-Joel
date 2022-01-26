@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ## I'm a DevOps oriented Developer
 
-- 🔭 I´m currently working as an consultant in Business Automation Area
+- 🔭 I´m currently working as an Principal Cloud Data Engineer
   - applying DevOps tools and principles by documenting, coding, scripting and automating everything
-  - heavily shell scripting and building large system and application architectures using tools like IBM Cloud Pak for Automation, FileNet P8, BAW,Red Hat OpenShift, Kubernetes, Docker, AWS, Windows, Linux, Jenkins, Git, Websphere Application server, confluence, technical writing, jira, vagrant etc.
+  - heavily shell scripting and building large system and application architectures using tools like Kubernetes, Docker, AWS, Windows, Linux, Jenkins, Git, nodeJS, confluence, technical writing, jira, vagrant etc.
   - at least 30% of time acting as a Agile coach, Business Consultant and as an active learner source of all knowledge.
   - 📫 feel free to check my LinkendIn page to see my history as senior developer.
 - ⚡ free time: I am learning new skills, building home automation as a hobby and doing outdoor activities
