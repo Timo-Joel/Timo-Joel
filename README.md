@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm a DevOps oriented Developer
 
-- 🔭 I´m currently working as an Principal Cloud Data Engineer
+- 🔭 I´m currently working as an Solution Architect
   - applying DevOps tools and principles by documenting, coding, scripting and automating everything
   - heavily shell scripting and building large system and application architectures using tools like Kubernetes, Docker, AWS, Windows, Linux, Jenkins, Git, nodeJS, confluence, technical writing, jira, vagrant etc.
   - at least 30% of time acting as a Agile coach, Business Consultant and as an active learner source of all knowledge.
