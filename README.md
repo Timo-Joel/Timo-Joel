@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I´m currently working as an Solution Architect
   - applying DevOps tools and principles by documenting, coding, scripting and automating everything
-  - heavily shell scripting and building large system and application architectures using tools like Kubernetes, Docker, AWS, Windows, Linux, Jenkins, Git, nodeJS, confluence, technical writing, jira, vagrant etc.
+  - heavily IaC scripting and building large system and application architectures using tools like Kubernetes, Docker, Azure, AWS, Windows, Linux, Jenkins, Git, Azure Devops, nodeJS, confluence, technical writing, jira, vagrant etc.
   - at least 30% of time acting as a Agile coach, Business Consultant and as an active learner source of all knowledge.
   - 📫 feel free to check my LinkendIn page to see my history as senior developer.
 - ⚡ free time: I am learning new skills, building home automation as a hobby and doing outdoor activities
